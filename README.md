@@ -1,2 +1,2 @@
 # CIT85
-HTML and CSS
+My repo for CIT85: HTML and CSS
