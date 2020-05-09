@@ -1,0 +1,39 @@
+/* make sure that it is class and not title in order to select. 
+can use the same name various times (ie "item" or "bob" or "time"*/
+.item1{
+    color: darkred;
+}
+
+.item18{
+    color: darksalmon;
+}
+
+.item24{
+    color: darkseagreen;
+}
+
+.item37{
+    color: darkslateblue;
+}
+
+.item50{
+    color: darkturquoise;
+}
+
+/* id= # and the name can only be used once. (ie "item" or  "bob" */
+#item55{
+    color: deeppink;
+}
+
+#item68{
+    color: firebrick;
+}
+
+#item75{
+    color: forestgreen;
+}
+
+/* element is the whole thing (ie ul or li or p or body) */
+ul{
+    color: gold;
+}
