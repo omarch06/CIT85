@@ -6,3 +6,7 @@ body{
 li:first-child{
     color: brown;
 }
+
+li:last-child{
+    color: hotpink;
+}
