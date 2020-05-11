@@ -37,3 +37,29 @@ can use the same name various times (ie "item" or "bob" or "time"*/
 ul{
     color: gold;
 }
+
+/* order matters for class pseudo classes */
+/* link visited hover active */
+/* LVHA (live with laughter) */
+
+body{
+    border: 45px solid aqua;
+    text-align: center;
+    font-size: 36px;
+}
+
+a:link{
+    color: gold;
+}
+
+a:visited{
+    color: green;
+}
+
+a:hover{
+    color: navy;
+}
+
+a:active{
+    color: orangered;
+} 
