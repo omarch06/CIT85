@@ -1,0 +1,22 @@
+div{
+color: lawngreen;
+width: 200px;
+height: 200px;
+border: 2px groove chocolate;
+border-radius: 10px;
+display: block;
+margin: 10px;
+text-align: center;
+padding: 10px;
+}
+
+.hello{
+color: lightcoral;
+width: 200px;
+height: 200px;
+border: 2px groove red;
+border-radius: 10px;
+display: inline-table;
+margin: 10px;
+padding: 2px;
+}

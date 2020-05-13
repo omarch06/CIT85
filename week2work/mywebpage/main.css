@@ -1,0 +1,38 @@
+h1{
+    width: auto;
+    height: 30px;
+    border: 10px;
+    color: blue;
+}
+
+body{
+    height: 10px;
+    border: chocolate;
+    text-align: center;
+}
+
+div>p {
+    width: auto;
+    height: 10px;
+    border: 10px;
+}
+
+h2{
+    width: auto;
+    height: 30px;
+    border: 10px;
+    color: purple;
+}
+
+div#tomato{
+    width: auto;
+    height: 10px;
+    border: 10px;
+    color:red; 
+}
+
+p.cool{
+    width: auto;
+    height: 10px;
+    border: 10px;
+}
