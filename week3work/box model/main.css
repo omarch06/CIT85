@@ -14,9 +14,8 @@ padding: 10px;
 color: lightcoral;
 width: 200px;
 height: 200px;
-border: 2px groove red;
+border: 8px groove red;
 border-radius: 10px;
-display: inline-table;
-margin: 10px;
-padding: 2px;
+margin: 30px;
+display: inline-block;
 }
