@@ -1,8 +1,19 @@
 a{
-    display: block;
     color: darkorange;
+    text-decoration: none;
 }
 
 a:hover{
     color: darkgray;
+    font-size: 2rem;
+}
+
+li{
+    border: blue groove 1rem;
+    padding: 2rem;
+    display: inline-block;
+    background: green;
+}
+li:hover{
+    background: indigo;
 }
